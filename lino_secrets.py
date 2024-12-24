@@ -1,0 +1,5 @@
+SUPABASE_URL=""
+SUPABASE_KEY=""
+WS_TRENDING="wss://io.dexscreener.com/dex/screener/pairs/h24/1?rankBy[key]=trendingScoreH6&rankBy[order]=desc"
+WS_GAINERS="wss://io.dexscreener.com/dex/screener/pairs/h24/1?rankBy[key]=priceChangeH24&rankBy[order]=desc&filters[liquidity][min]=25000&filters[txns][h24][min]=50&filters[volume][h24][min]=10000"
+WS_NEWEST="wss://io.dexscreener.com/dex/screener/pairs/h24/1?rankBy[key]=volume&rankBy[order]=desc&filters[pairAge][max]=24"
