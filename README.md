@@ -44,7 +44,7 @@ Alright, initial setup process is completed. Now, we are ready to run the script
 
 # Execution
 
-To run this script on this version, run crypto-wallet-bruteforce from the command line:
+To run this script on this version, run from the command line:
 
 ```
 git clone https://github.com/peter777-cloud/solana-sniper-trading-bot
