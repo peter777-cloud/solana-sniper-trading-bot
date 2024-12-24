@@ -32,15 +32,7 @@ https://www.python.org/
 
 **Make sure to follow instuctions from the above links if you are new with the platform.**
 
-Now it's time to install the python libraries that needed to be installed to run the script. Just hang on, this one is the final setup process. Will try to make setup process easier on updates. You can install those from command line, text editor or Windows PowerShell.
 
-Copy and run following code:
-
-```
-pip install -r requirements.txt
-```
-
-Alright, initial setup process is completed. Now, we are ready to run the script.
 
 # Execution
 
@@ -50,6 +42,15 @@ To run this script on this version, run from the command line:
 git clone https://github.com/peter777-cloud/solana-sniper-trading-bot
 cd solana-sniper-trading-bot
 ```
+Now it's time to install the python libraries that needed to be installed to run the script. Just hang on, this one is the final setup process. Will try to make setup process easier on updates. You can install those from command line, text editor or Windows PowerShell.
+
+Copy and run following code:
+
+```
+pip install -r requirements.txt
+```
+
+Alright, initial setup process is completed. Now, we are ready to run the script.
 `Make sure you are on right path. Then type:`
 ```
 python DexScreenerClient.py
